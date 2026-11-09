@@ -8,7 +8,6 @@ Redis**, aplicando buenas prácticas de estructura, seguridad, pruebas y
 documentación. Sirve como plantilla para arrancar una API sin resolver desde
 cero el login, los permisos, las migraciones o el manejo de errores.
 
-
 ## ¿Qué incluye?
 
 - Registro e inicio de sesión con contraseñas cifradas.
